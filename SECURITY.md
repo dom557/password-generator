@@ -7,7 +7,7 @@ Use this section to inform users about the supported versions of the Password Ge
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.1.1   | :white_check_mark: |
-| 0.1.0   | :white_check_mark  |
+| 0.1.0   | :white_check_mark: |
 | < 0.1.0 | :x:                |
 
 ## Reporting a Vulnerability
