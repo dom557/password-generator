@@ -7,6 +7,18 @@
 
 This is a versatile password generator offering both a simple command-line interface and a user-friendly graphical user interface (GUI) for creating random, secure passwords. The latest release also includes a feature to hash passwords using the SHA-256 algorithm.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Using the Command-Line](#using-the-command-line)
+  - [Using the GUI](#using-the-gui)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Project Structure](#project-structure)
+- [License](#license)
+- [Author](#author)
+
 ## Installation 🚀
 
 ### Prerequisites:
@@ -20,11 +32,13 @@ This is a versatile password generator offering both a simple command-line inter
    ```bash
    git clone https://github.com/yourusername/password-generator.git
    ```
+
 2. Navigate to the project directory:
 
    ```bash
    cd password-generator
    ```
+
 3. Install dependencies:
 
    ```bash
@@ -101,7 +115,7 @@ pip install -r requirements.txt
 
 ## Project Structure 📁
 
-```plaintext
+```
 password_generator/
 │
 ├── src/
