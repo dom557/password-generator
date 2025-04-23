@@ -6,7 +6,7 @@ import hashlib
 class PasswordGeneratorGUI:
     def __init__(self, master):
         self.master = master
-        master.title("Password Generator and Hasher")
+        master.title("Password Generator and Hasher ⇆")
 
         # Define color scheme
         self.bg_color = "#2C3E50"  # Dark blue background
